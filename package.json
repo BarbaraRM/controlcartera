@@ -1,0 +1,19 @@
+{
+  "name": "control_cartera",
+  "version": "1.0.0",
+  "description": "sistema administrativo modular para el control de cartera",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BarbaraRM/controlcartera.git"
+  },
+  "author": "Barbara Romero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BarbaraRM/controlcartera/issues"
+  },
+  "homepage": "https://github.com/BarbaraRM/controlcartera#readme"
+}
